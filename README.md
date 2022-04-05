@@ -1,6 +1,10 @@
 # GraphQL-Mongo
 ## POC for graphql with dotnet core and mongodb
+## Query
+![image](https://user-images.githubusercontent.com/26926642/161582751-f72f0719-3430-4eeb-a433-452bdebc2435.png)
 
+## Mutation
+![image](https://user-images.githubusercontent.com/26926642/161669120-a8657c3e-7af6-401a-82a3-31159d7cd834.png)
 ## Prequisite to run the project
 dotnet core(version 3.2) and mongodb should be install on machine
 
@@ -20,7 +24,7 @@ dotnet core(version 3.2) and mongodb should be install on machine
               }
             }
             
-            ![image](https://user-images.githubusercontent.com/26926642/161582751-f72f0719-3430-4eeb-a433-452bdebc2435.png)
+            
 
       # 2) Mutation - use to insert/update/delete data on server
         
@@ -36,6 +40,6 @@ dotnet core(version 3.2) and mongodb should be install on machine
                 }
             }
         
-        ![image](https://user-images.githubusercontent.com/26926642/161668416-8a20543e-cff9-4908-9058-c7a9ac4799d5.png)
+        
 
  
